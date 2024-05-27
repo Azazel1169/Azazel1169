@@ -1,6 +1,6 @@
 Hey I'm Josh.
-Azazel was my first and only online name I have gone by for the better part of two decades now lol.
-Currently enrolled at BloomTech for Full-Stack, but plan to follow the road map for front-end developer when I finish.
+I am a software engineer, learning fullstack from Bloomtech. 
+
 <a href="https://app.daily.dev/azazel1169"><img src="https://api.daily.dev/devcards/129f2cd86356490d9488409ddd7d5742.png?r=s04" width="400" alt="josh rime's Dev Card"/></a>
 
 <!---
